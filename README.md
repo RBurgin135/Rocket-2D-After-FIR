@@ -7,3 +7,5 @@ This project pits neural net driven rockets to land on a platform, it was inspir
 This was another attempt at the rocket problem I undertook before, however with everything I learnt from projects up to and including FIR. I also changed the setting a bit so that the rockets were landing on a smaller platform, and that the rockets start on the screen. So the challenge for the rockets is slightly different and there's more emphasis on slow control, rather than making the large distance to the platform.
 
 Agents can be eliminated manually by clicking their portrait on the right handside, and agents can be hidden by inputting a number into the 'HIDE' button in the top right.
+
+Landing from a static starting location achieved, next step is to randomise the starting locations.
